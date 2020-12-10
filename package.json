@@ -1,0 +1,24 @@
+{
+  "name": "graphql-example",
+  "version": "1.0.0",
+  "description": "GraphQL example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pktippa/graphql-example.git"
+  },
+  "author": "pktippa@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pktippa/graphql-example/issues"
+  },
+  "homepage": "https://github.com/pktippa/graphql-example#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.4.0"
+  }
+}
